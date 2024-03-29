@@ -1,4 +1,4 @@
-# Psychological-Book-Store
+# Book-Store
 pschological book store using mern stack </br> CRUD operation  Tech Stack : html, tailwind-css, javascript, node.js, express.js, vite.js, react.js, mongodb, mongoose
 
 ![Screenshot 2024-02-04 141609](https://github.com/Gitaalekh6763/Psychological-Book-Store/assets/80904627/5c705ab5-639e-421f-80fb-a450f06d642e)
